@@ -226,3 +226,64 @@ footer nav a {
 #child2 img{
     width: 85%;
 }
+
+#child1{
+    width: 100%;
+}
+
+#child2{
+    width: 100%;
+}
+
+#twoBlock{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#child3 img{
+    width: 85%;
+}
+
+#child4 img{
+    width: 85%;
+}
+
+#child3{
+    width: 100%;
+}
+
+#child4{
+    width: 100%;
+}
+
+#bBlock a{
+    /*border: 1px solid black;*/
+    background-color: white;
+    color: black;
+    padding: 1%;
+    margin-bottom: 2%;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+#bBlock p{
+    font-size: 14px;
+}
+
+/*Header & Nav*/
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+nav{
+    align-items: center;
+    text-align: center;
+}
+
+nav a{
+    margin-bottom: 0 10%;
+}
