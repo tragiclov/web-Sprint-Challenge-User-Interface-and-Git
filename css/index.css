@@ -50,6 +50,16 @@ table {
 * {
     box-sizing: border-box;
 }
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin:0 auto;
+    margin-bottom: 2%;
+    margin: 2%;
+}
+
+.buttons 1
+
 
 html, body {
     height: 100%;
